@@ -1,7 +1,7 @@
 # U10 Soccer Team Manager
 
 ## Overview
-***
+
 The Soccer Team Manager is a Java program designed to build soccer teams for children under ten years old (U10).
 U10 soccer teams have seven players on the field. 
 The best players are usually selected as the starting lineup and the remaining players are on the bench.
