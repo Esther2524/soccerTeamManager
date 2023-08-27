@@ -11,7 +11,7 @@ The software follows the Model-View-Controller (MVC) architectural pattern for i
 
 
 ## Features
-***
+
 1. Add new players to the soccer team, including their personal information. 
 2. Remove players from the team using their jersey number.
 3. View details of all players in the team, the starting lineup, and players on the bench.
@@ -19,13 +19,13 @@ The software follows the Model-View-Controller (MVC) architectural pattern for i
 5. Interactive GUI for user-friendly interaction.
 
 ## How To Run
-***
+
 There are two ways to run the Soccer Team Manager:
 - Double-click the JAR file to run it 
 - Run the JAR file using the command: `java -jar SoccerTeamManager.jar`
 
 ## How to Use the Program
-***
+
 ### Add New Players
 
 1. Click the **Add New Player** button to access the *Add New Player Page*.
@@ -58,24 +58,24 @@ There are two ways to run the Soccer Team Manager:
 
 
 ## Design/Model Changes
-***
+
 - Each page includes a section to view the current players in the team, along with a refresh button. This provides users with the convenience of checking the latest team composition after adding or removing players.
 
 
 
 ## Assumptions
-***
+
 - When adding the 21st player to the team, the algorithm removes the player with the lowest skill level. If skill levels are equal, a player is removed alphabetically, maintaining a maximum of 20 players.
 - The process of selecting players for each position in the starting lineup is primarily based on their preferred positions. Additionally, any remaining spots in the lineup are filled while following a specific order of roles: midfielders are prioritized, followed by defenders, forwards, and goalies.
 
 
 ## Limitations
-***
+
 - Once players are added to the team, they cannot be modified. To make changes, users must remove and re-add players, which can be complex.
 - Users cannot manually decide the conversion between bench players and starting lineup players, as the starting lineup is automatically generated based on the model's algorithm.
 
 ## Citations
-***
+
 [1] “Java AWT: CardLayout class,” GeeksforGeeks, https://www.geeksforgeeks.org/java-awt-cardlayout-class/ (accessed Aug. 15, 2023).
 
 [2] “Java Swing - JPanel with examples,” GeeksforGeeks, https://www.geeksforgeeks.org/java-swing-jpanel-with-examples/ (accessed Aug. 15, 2023). 
