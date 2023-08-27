@@ -1,0 +1,47 @@
+Team Size:
+11
+All Players in the Team:
+Nick, Anderson, Jersey Number: 4
+Tyler, Brown, Jersey Number: 9
+James, Garcia, Jersey Number: 2
+Maria, Johnson, Jersey Number: 13
+Olivia, Jones, Jersey Number: 10
+Emily, Martinez, Jersey Number: 1
+Elizabeth, Martinez, Jersey Number: 18
+Linda, Miller, Jersey Number: 15
+Henry, Smith, Jersey Number: 8
+Kelvin, Taylor, Jersey Number: 14
+Sarah, Williams, Jersey Number: 11
+
+
+Starting Lineup List:
+Elizabeth, Martinez, Jersey Number: 18, Position: GOALIE
+Emily, Martinez, Jersey Number: 1, Position: DEFENDER
+Kelvin, Taylor, Jersey Number: 14, Position: DEFENDER
+Nick, Anderson, Jersey Number: 4, Position: MIDFIELDER
+Maria, Johnson, Jersey Number: 13, Position: MIDFIELDER
+Linda, Miller, Jersey Number: 15, Position: MIDFIELDER
+James, Garcia, Jersey Number: 2, Position: FORWARD
+
+
+Bench Players:
+Tyler, Brown, Jersey Number: 9
+Olivia, Jones, Jersey Number: 10
+Henry, Smith, Jersey Number: 8
+Sarah, Williams, Jersey Number: 11
+
+
+After Remove:
+Player with jersey number 13 has been removed.
+
+The Remaining Players in the Team:
+Nick, Anderson, Jersey Number: 4
+Tyler, Brown, Jersey Number: 9
+James, Garcia, Jersey Number: 2
+Olivia, Jones, Jersey Number: 10
+Emily, Martinez, Jersey Number: 1
+Elizabeth, Martinez, Jersey Number: 18
+Linda, Miller, Jersey Number: 15
+Henry, Smith, Jersey Number: 8
+Kelvin, Taylor, Jersey Number: 14
+Sarah, Williams, Jersey Number: 11
